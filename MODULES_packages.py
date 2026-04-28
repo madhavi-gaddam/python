@@ -1,5 +1,6 @@
 #importing a module
 #✅ Method 1: Import entire module
+"""
 import math_utils
 
 print(math_utils.add(2, 3))
@@ -23,7 +24,7 @@ import math
 
 print(math.sqrt(16))   # 4.0
 
-
+"""
 
 
 
